@@ -1,3 +1,4 @@
+/*
 package model;
 
 import lombok.AllArgsConstructor;
@@ -58,3 +59,4 @@ public class CustomUserDetails implements UserDetails {
         return active;
     }
 }
+*/
